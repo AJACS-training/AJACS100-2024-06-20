@@ -1,5 +1,5 @@
 # AJACS100
-# 統合データベース講習会：AJACS オンライン<br/>〜ChatGPT等の生成AIツールを研究活動に活用する注意点を知って・学んで・使う〜
+# データ解析講習会：AJACS オンライン<br/>〜ChatGPT等の生成AIツールを研究活動に活用する注意点を知って・学んで・使う〜
 
 ### 公式ウェブページ
 [統合データベース講習会：AJACS オンライン](https://biosciencedbc.jp/event/ajacs/ajacs2024-06-20-generative-AI.html)  
