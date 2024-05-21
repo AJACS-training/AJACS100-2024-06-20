@@ -1,11 +1,11 @@
 # AJACS100
 # データ解析講習会：AJACS オンライン<br/>〜ChatGPT等の生成AIツールを研究活動に活用する注意点を知って・学んで・使う〜
 
-### 公式ウェブページ
-[統合データベース講習会：AJACS オンライン](https://biosciencedbc.jp/event/ajacs/ajacs2024-06-20-generative-AI.html)  
+### NBDC事業推進室 公式ウェブページ
+[https://biosciencedbc.jp/event/ajacs/ajacs2024-06-20-generative-AI.html](https://biosciencedbc.jp/event/ajacs/ajacs2024-06-20-generative-AI.html)  
 
 ### 開催概要
-統合データベース講習会：AJACSは、生命科学系のデータベースやツールの使い方、データベースを統合する活動を紹介する講習会です。
+データ解析講習会：AJACS（あじゃっくす）は、生命科学におけるデータ解析の入り口を提供する講習会です。
 
 ### 日時
 2024年6月20日（木）13:30～15:50
